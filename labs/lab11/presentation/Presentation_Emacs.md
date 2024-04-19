@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Презентация по лабораторной работе №11
-subtitle: Текстовой редактор emacs
+subtitle: Текстовый редактор emacs
 author:
   - Вакутайпа М.
 institute:

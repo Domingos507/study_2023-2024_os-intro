@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Отчёт по лабораторной работе №11"
-subtitle: "Текстовой редактор emacs"
+subtitle: "Текстовый редактор emacs"
 author: "Вакутайпа Милдред"
 
 ## Generic otions
