@@ -4,10 +4,10 @@ lang: ru-RU
 title: Презентация по лабораторной работе №1
 subtitle: Архитектура компьютеров и операционные системы
 author:
-  - Вакутайпа М.
+  - Domingos Jose Ramos.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 25 февраля 2024
+date: 08 Марта 2025
 
 ## i18n babel
 babel-lang: russian
